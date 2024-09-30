@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="600px" height="600px" viewBox="0 0 600 600" enable-background="new 0 0 600 600" xml:space="preserve">
+<g>
+	<ellipse fill="#C97D00" stroke="#FFFFFF" cx="135.064" cy="169.734" rx="83.01" ry="83.673"/>
+	<ellipse fill="#FFC89B" cx="135.064" cy="171.092" rx="68.367" ry="68.071"/>
+</g>
+<g>
+	<ellipse fill="#C97D00" stroke="#FFFFFF" cx="511.342" cy="162.591" rx="83.01" ry="83.674"/>
+	<ellipse fill="#FFC89B" cx="511.343" cy="163.949" rx="68.367" ry="68.071"/>
+</g>
+<g>
+	<ellipse fill="#C97D00" stroke="#FFFFFF" cx="320.015" cy="125.173" rx="153.994" ry="103.398"/>
+	<ellipse fill="#C97D00" cx="325.117" cy="317.348" rx="232.143" ry="139.541"/>
+	<ellipse fill="#C97D00" cx="301.224" cy="162.592" rx="62.755" ry="70.408"/>
+	<ellipse fill="#C97D00" cx="363.243" cy="177.806" rx="0.737" ry="0"/>
+	<ellipse fill="#FFC89B" cx="288.144" cy="136.99" rx="85.018" ry="80.949"/>
+	<g>
+		<ellipse fill="#FFC89B" cx="363.979" cy="136.99" rx="85.019" ry="80.949"/>
+	</g>
+	
+		<ellipse transform="matrix(-1 2.321323e-004 -2.321323e-004 -1 640.1029 621.2822)" fill="#FFC89B" cx="320.015" cy="310.678" rx="191.326" ry="107.69"/>
+</g>
+<g>
+	<g>
+		<g>
+			<ellipse fill="#FFFFFF" stroke="#FFFFFF" cx="264.994" cy="136.99" rx="42.297" ry="67.346"/>
+		</g>
+		<ellipse stroke="#FFFFFF" cx="264.994" cy="136.989" rx="26.524" ry="37.755"/>
+	</g>
+	<ellipse fill="#FFFFFF" stroke="#FFFFFF" cx="269.075" cy="128.152" rx="11.735" ry="12.755"/>
+</g>
+<g>
+	<g>
+		<g>
+			<ellipse fill="#FFFFFF" stroke="#FFFFFF" cx="368.815" cy="140.908" rx="42.297" ry="67.346"/>
+		</g>
+		<ellipse stroke="#FFFFFF" cx="368.815" cy="140.907" rx="26.524" ry="37.755"/>
+	</g>
+	<ellipse fill="#FFFFFF" stroke="#FFFFFF" cx="372.896" cy="132.07" rx="11.734" ry="12.755"/>
+</g>
+<path fill="#C97D00" d="M423.586,346.412c0,19.161-44.086,34.694-98.469,34.694c-54.383,0-98.47-15.533-98.47-34.694
+	c0-19.16,44.086,15.307,98.47,15.307C379.5,361.719,423.586,327.252,423.586,346.412z"/>
+<path fill="#C97D00" d="M373.076,291.529c0-9.862-5.531-52.366-49.156-52.366c-43.626,0-56.966,40.138-56.966,50
+	c0,9.861,13.34-14.286,56.966-14.286C367.545,274.877,373.076,301.391,373.076,291.529z"/>
+</svg>

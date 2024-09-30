@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SwipeAndTabs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank FragmentClass</string>
+    <string name="hello_blank_fragment1">Hello blank FragmentClass1</string>
+    <string name="hello_blank_fragment2">Hello blank FragmentClass2</string>
+</resources>

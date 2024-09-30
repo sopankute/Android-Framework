@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="15dp"
+    android:layout_margin="10dp"
+    android:backgroundTint="#EAB20C">
+
+    <ImageView
+        android:id="@+id/img1"
+        android:layout_width="120dp"
+        android:layout_height="100dp"
+        android:src="@drawable/yoga_pose_silhouette"
+        android:scaleType="fitXY" />
+    <TextView
+        android:id="@+id/txt1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/img1"
+        android:text="YogaSan"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="10dp"/>
+    <TextView
+        android:id="@+id/txt2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/img1"
+        android:layout_below="@+id/txt1"
+        android:text="Get Happy Mind"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="10dp"/>
+
+</RelativeLayout>

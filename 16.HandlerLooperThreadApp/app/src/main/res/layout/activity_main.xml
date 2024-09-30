@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:backgroundTint="#F1A829"
+        android:id="@+id/btn1"
+        android:onClick="onStart"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Task 1"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:backgroundTint="#F1A829"
+        android:id="@+id/btn3"
+        android:onClick="onTask1"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Task 2"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:backgroundTint="#F1A829"
+        android:id="@+id/btn4"
+        android:onClick="onTask2"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Stop"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:backgroundTint="#F1A829"
+        android:id="@+id/btn2"
+        android:onClick="onStop"/>
+
+</LinearLayout>

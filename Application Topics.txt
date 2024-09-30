@@ -1,0 +1,10 @@
+1. ServiceApplication (Service)
+2. IntentServiceApp (Intent)
+3. BroadcastReceiverApp (Broadcast Receiver)
+4. BMIApplication (Content Provider)
+5. RecyclerViewApplication
+6. MyEmployee (SQLite)
+7. MyNewAsyncDemo (AsyncTask, Loaders)
+8. MyAsyncInternetConnection (AsyncTask)
+9. AIDLClient
+10. AIDLServer
